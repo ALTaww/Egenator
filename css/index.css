@@ -184,7 +184,6 @@ header .vk:hover path:first-child {
     }
  }
 
-
 @media screen and (max-width: 399.98px) {
     .settings {
         flex-direction: column;
