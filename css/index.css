@@ -18,8 +18,8 @@ footer {
     background-color: var(--header-footer-bg-color);
 }
 
-header>*,
-footer>* {
+header .nav,
+footer .nav {
     align-items: center;
 }
 
