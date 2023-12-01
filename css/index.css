@@ -76,6 +76,8 @@ header .vk:hover path:first-child {
 
 .collections-buttons {
     user-select: none;
+    position: sticky;
+    top: 2rem;
 }
 
 .settings {
