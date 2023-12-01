@@ -173,7 +173,7 @@ header .vk:hover path:first-child {
 }
 
 .tooltip-inner {
-    background-color: var(--tooltip-bg-color) !important
+    background-color: var(--tooltip-bg-color) !important;
 }
 
 .tooltip-arrow::before {
